@@ -34,6 +34,16 @@
     width: 15%;
     left: 8px;
 }
+.facebookContainer {
+    background:#3C5899;
+}
+.facebookText {
+}
+
+.InstagramContainer{
+    background:linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
+}
+
 
 .loginPage {
     width: 100vw;
